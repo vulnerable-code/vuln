@@ -5,10 +5,10 @@ go 1.25.0
 require (
 	github.com/google/go-cmdtest v0.4.1-0.20220921163831-55ab3332a786
 	github.com/google/go-cmp v0.6.0
-	golang.org/x/mod v0.38.0
+	golang.org/x/mod v0.39.0
 	golang.org/x/sync v0.22.0
-	golang.org/x/telemetry v0.0.0-20260708182218-49f421fb7959
-	golang.org/x/tools v0.48.0
+	golang.org/x/telemetry v0.0.0-20260811182544-a038080d80e5
+	golang.org/x/tools v0.49.0
 	golang.org/x/tools/go/packages/packagestest v0.1.1-deprecated
 )
 
